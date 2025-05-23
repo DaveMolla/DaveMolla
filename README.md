@@ -15,9 +15,15 @@ I am a passionate <strong>Software Developer</strong> skilled in building scalab
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/dawitmolla" target="_blank" rel="noopener noreferrer">LinkedIn</a><br/>
-<a href="https://t.me/DawitMolla" target="_blank" rel="noopener noreferrer">Telegram</a><br/>
-<a href="https://instagram.com/__dawit_molla" target="_blank" rel="noopener noreferrer">Instagram</a>
+<a href="https://linkedin.com/in/dawitmolla" target="_blank" rel="noopener noreferrer">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+</a>
+<a href="https://t.me/DawitMolla" target="_blank" rel="noopener noreferrer" style="margin-left:10px;">
+  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="Telegram" height="30" width="40" />
+</a>
+<a href="https://instagram.com/__dawit_molla" target="_blank" rel="noopener noreferrer" style="margin-left:10px;">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+</a>
 
 
 
