@@ -38,7 +38,7 @@ I am a passionate <strong>Software Developer</strong> skilled in building scalab
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
         </a>
         <a href="https://laravel.com/" target="_blank" rel="noreferrer">
-          <img src="https://img.shields.io/badge/Laravel-F05340?logo=laravel&logoColor=white&style=for-the-badge" alt="laravel" width="40" height="40"/>
+          <img src="https://img.shields.io/badge/Laravel-F05340?logo=laravel&logoColor=white&style=for-the-badge" alt="laravel" width="100" height="40"/>
         </a>
         <a href="https://codeigniter.com" target="_blank" rel="noreferrer">
           <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="40" height="40"/>
