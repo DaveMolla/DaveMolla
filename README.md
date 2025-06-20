@@ -136,9 +136,13 @@ I am a passionate <strong>Software Developer</strong> skilled in building scalab
     </td>
   </tr>
 </table>
+<p><a href="https://git.io/streak-stats"><img align="left" src="https://github-readme-streak-stats-eight.vercel.app/?user=davemolla&theme=light&hide_border=true" alt="GitHub Streak"/>
+  </a>
+</p>
 
+<p> <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=davemolla&layout=compact&theme=light&hide_border=true" alt="Top Languages"/> </a></p>
 
+<!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=davemolla&show_icons=true&locale=en&layout=compact" alt="davemolla" /></p> 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=davemolla&" alt="davemolla" /></p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=davemolla&show_icons=true&locale=en&layout=compact" alt="davemolla" /></p>
+-->
 
