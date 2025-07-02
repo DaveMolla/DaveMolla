@@ -7,11 +7,11 @@ I am a passionate <strong>Software Developer</strong> skilled in building scalab
 
 - 🔭 I’m currently working on **a Full stack Laravel Project**
 
-- 🌱 I’m currently learning **Flutter**
+<!-- - 🌱 I’m currently learning **Flutter** -->
 
 - 👯 I’m looking to collaborate on **Any Projects**
 
-- 📫 How to reach me **dawitmolla80@gmail.com**
+# - 📫 How to reach me **dawitmolla80@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
