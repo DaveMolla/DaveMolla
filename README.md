@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Dawit Molla</h1>
+<h1 align="center">Hi 👋, I'm Dawit Molla</h1> 
 <h3>
 I am a passionate <strong>Software Developer</strong> skilled in building scalable and performant web applications and REST API's. I enjoy working across the full stack, crafting clean code, and exploring modern technologies.
 </h3>
